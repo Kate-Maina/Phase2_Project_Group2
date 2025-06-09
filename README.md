@@ -1,6 +1,6 @@
 # Phase2_Project_Group2 – Group 2: Movie Industry Analysis
 ## Team Members 
-Njuki (Branch: `Njuki-README`) – README Author & Contributor to Data Cleaning/EDA
+
 ## Project Overview
 This project analyzes movie industry data from multiple sources to provide insights for a new film studio looking to enter the market. The analysis focuses on:
 
@@ -98,7 +98,7 @@ Histogram showing common durations of films in the dataset.
 ## License
 This project is intended for educational use only. No commercial license applied.
 
-##  requirements.txt
+
 
 
 
