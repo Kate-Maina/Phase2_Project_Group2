@@ -65,11 +65,11 @@ Data Visualization
 Below are the critical visualizations that helped provide insights into the film industry:
 1. Understanding the Relationship between Genres and Ratings
 
-![genres and ratings](images/relationship%20between%20genres%20by%20ratings.png)
+![genres and ratings](genres_ratings.png)
 
 2. Understanding the Relationship between Genre and ROI
 
-![Roi by Genre](images/Roi%20by20%gitGenre.png)
+![Roi by Genre](Roi_Genre.png)
 
 3. Understanding the Relationship between Language and Popularity
 
