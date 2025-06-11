@@ -83,8 +83,10 @@ Below are the critical visualizations that helped provide insights into the film
 Our analysis shows that G-rated and family-friendly films offer the highest ROI, certain genres like Drama and Animation consistently receive strong ratings, and a few key directors drive higher foreign revenue. English remains the dominant language for popular films, but non-English content also shows potential. These insights can help guide data-driven decisions on genre focus, content rating, and director partnerships for a successful market entry.
  # Technologies Used
  
-  Python - Pandas, Matplotlib, Seaborn, NumPy
-   Jupyter Notebook
+  - Python - Pandas, Matplotlib, Seaborn, NumPy
+  - git
+  - Tableau
+   - Jupyter Notebook
    #  Repository Structure
    
     ZippedData/ → Folder containing the cleaned datasets used in analysis
