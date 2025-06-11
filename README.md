@@ -65,17 +65,20 @@ Data Visualization
 Below are the critical visualizations that helped provide insights into the film industry:
 1. Understanding the Relationship between Genres and Ratings
 
-![alt genres and ratings](images/relationship%20between%20genres%20by%20ratings.png)
+![genres and ratings](images/relationship%20between%20genres%20by%20ratings.png)
+
 2. Understanding the Relationship between Genre and ROI
 
-![alt Roi by Genre](images/Roi%20by%Genre.png)
+![Roi by Genre](images/Roi%20by20%gitGenre.png)
+
 3. Understanding the Relationship between Language and Popularity
 
-![alt Language by popularity](images/language%20by%20popularity.png)
+![Language by popularity](images/language%20by%20popularity.png)
 
 4. Understanding the Relationship between Directors and Worldwide Gross Earnings
 
-![alt Directors by  Worldwide Gross Earnings](images/Directors%20by%20gross.png)
+![Directors by  Worldwide Gross Earnings](images/Directors%20by%20gross.png)
+
 #  Conclusion
 Our analysis shows that G-rated and family-friendly films offer the highest ROI, certain genres like Drama and Animation consistently receive strong ratings, and a few key directors drive higher foreign revenue. English remains the dominant language for popular films, but non-English content also shows potential. These insights can help guide data-driven decisions on genre focus, content rating, and director partnerships for a successful market entry.
  # Technologies Used
