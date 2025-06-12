@@ -17,7 +17,7 @@ This analysis will help answer the following key business questions:
 These insights will equip the new studio team with reliable data to greenlight projects that align with market demand and maximize profitability.
 
 # Data Sources
-Kaggle: https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset?resource=download
+[Kaggle](https://www.kaggle.com/datasets/stefanoleone992/rotten-tomatoes-movies-and-critic-reviews-dataset?resource=download)
 
 To generate reliable insights, we are going to integrate data from multiple authoratative sources. They include:
 
@@ -90,7 +90,6 @@ Our analysis shows that G-rated and family-friendly films offer the highest ROI,
    #  Repository Structure
    
     ZippedData/ → Folder containing the cleaned datasets used in analysis
-    scripts/ → Folder containing Script to automatically unzip ZippedData into Data Folder locally
     Data/ → Folder with unzipped data (ignored by Git due to .gitignore configuration)
     images/ → Folder containing images used throughout the notebook and README.md file
     README.md → This project overview file
@@ -101,7 +100,7 @@ Our analysis shows that G-rated and family-friendly films offer the highest ROI,
  
 
 # Tableau TABLEAU LINK
-https://public.tableau.com/app/profile/rita.nyaga/viz/FilmDataAnalysisDashboard/Dashboard2?publish=yes
+[Tableau Dashboard](https://public.tableau.com/app/profile/rita.nyaga/viz/FilmDataAnalysisDashboard/Dashboard2?publish=yes)
 
 
 
