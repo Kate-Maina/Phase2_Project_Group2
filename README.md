@@ -1,3 +1,4 @@
+![Dashboard Preview](images/studio.png)
 # FILM DATA ANALYSIS FOR SUCCESSFUL LAUNCH INTO THE INDUSTRY
 
  This project analyzes various film industry datasets to uncover trends that can guide a company's strategic entry into the entertainment industry. 
